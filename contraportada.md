@@ -13,6 +13,9 @@ description: >-
 Otros repositorios:  
 [https://archive.org/details/Xeraciongnu-02](https://archive.org/details/Xeraciongnu-02)
 
+Puedes descargar los contenidos de esta publicación desde Github:  
+[https://github.com/xeraciongnu](https://github.com/xeraciongnu)
+
 ![](.gitbook/assets/image%20%2814%29.png)
 
 ![](.gitbook/assets/image%20%2813%29.png)
